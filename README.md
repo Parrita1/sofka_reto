@@ -3,9 +3,9 @@ Presentación del reto técnico propuesto por Sofka, por Jonathan Alfredo Parra 
 
 Para jugar:
 ________________________________________
--Clone este repositorio.
--Ejecutelo en su pc.
--Al iniciar le pedira un apodo.
--Siga las instrucciones digitando los numeros o letras que incian la opcion.
+-Clone este repositorio.\n
+-Ejecutelo en su pc.\n
+-Al iniciar le pedira un apodo.\n
+-Siga las instrucciones digitando los numeros o letras que incian la opcion.\n\n
 
 Que lo disfruten!!
